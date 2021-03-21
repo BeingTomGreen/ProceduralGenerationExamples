@@ -4,3 +4,4 @@ Procedural Generation examples in Unity, almost all of which I've build followin
 
 ## Variations 
 [Simple Block Terrain & Object Generation in Unity](https://github.com/BeingTomGreen/ProceduralGenerationExamples/tree/simple-block-and-object)
+[Simple Procedural Block Terrain Generation in Unity](simple-block-procedural-generation)
